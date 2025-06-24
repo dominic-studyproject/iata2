@@ -411,7 +411,7 @@ export default function Airports() {
                 <span className="text-slate-400 text-2xl">🏢</span>
               </div>
               <p className="text-slate-500 text-lg">등록된 공항이 없습니다.</p>
-              <p className="text-slate-400 text-sm mt-2">위의 '+ 공항 추가' 버튼을 클릭해서 새로운 공항을 등록해보세요.</p>
+              <p className="text-slate-400 text-sm mt-2">위의 &#39;+ 공항 추가&#39; 버튼을 클릭해서 새로운 공항을 등록해보세요.</p>
             </div>
           )}
         </div>

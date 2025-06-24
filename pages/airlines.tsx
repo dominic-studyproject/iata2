@@ -321,7 +321,7 @@ export default function Airlines() {
                 <span className="text-slate-400 text-2xl">✈</span>
               </div>
               <p className="text-slate-500 text-lg">등록된 항공사가 없습니다.</p>
-              <p className="text-slate-400 text-sm mt-2">위의 '+ 항공사 추가' 버튼을 클릭해서 새로운 항공사를 등록해보세요.</p>
+              <p className="text-slate-400 text-sm mt-2">위의 &#39;+ 항공사 추가&#39; 버튼을 클릭해서 새로운 항공사를 등록해보세요.</p>
             </div>
           )}
         </div>
